@@ -1,2 +1,2 @@
 language="nodejs"
-run="pm2 start index.js"
+run="nmp start"
